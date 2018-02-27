@@ -1,9 +1,3 @@
-/*
-  Can you predict what this light show will look like?
-  Notice all the typing and duplication required when
-  you don't use an array and for loops.
-*/
-
 void setup() {
   pinMode(2, OUTPUT);
   pinMode(3, OUTPUT);
