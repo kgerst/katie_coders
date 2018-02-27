@@ -1,4 +1,4 @@
-const int DELAY_TIME = 500;
+const int DELAY_TIME = 1000;
 
 
 
